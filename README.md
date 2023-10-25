@@ -1,2 +1,2 @@
 # Game_store
-Springboot + maven + mysql
+Springboot + maven + mysql latest
